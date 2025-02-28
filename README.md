@@ -1,3 +1,10 @@
+# Wow, aku ngedit lewat github
+# Shift + 3 kayanya buat heading 1/title
+## Shift + 3 2x kayanya heading 2
+### Shift + 3 3x kayanya heading 3
+###### Shift + 3 6x kayanya heading 6
+####### mentok di heading 6
+
 # Gutenberg
 
 [![End-to-End Tests](https://github.com/WordPress/gutenberg/workflows/End-to-End%20Tests/badge.svg)](https://github.com/WordPress/gutenberg/actions?query=workflow%3A%22End-to-End+Tests%22+branch%3Atrunk)
